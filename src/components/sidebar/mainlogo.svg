@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="133" height="82" viewBox="0 0 133 82">
+  <defs>
+    <clipPath id="clip-dashboard-main-logo">
+      <rect width="133" height="82"/>
+    </clipPath>
+  </defs>
+  <g id="dashboard-main-logo" clip-path="url(#clip-dashboard-main-logo)">
+    <rect width="133" height="82" fill="rgba(255,255,255,0)"/>
+    <text id="_" data-name="𝐙" transform="translate(10 11)" fill="#fff" stroke="#3be7af" stroke-width="1.5" font-size="45" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="49">𝐙</tspan></text>
+    <text id="_2" data-name="𝐚" transform="translate(36 23)" fill="#3be7af" font-size="34" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="37">𝐚</tspan></text>
+    <text id="_3" data-name="𝐠" transform="translate(56 22)" fill="#3be7af" font-size="34" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="37">𝐠</tspan></text>
+    <text id="_4" data-name="𝐢" transform="translate(77 23)" fill="#3be7af" font-size="34" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="37">𝐢</tspan></text>
+    <text id="_5" data-name="𝐟" transform="translate(90 23)" fill="#3be7af" font-size="34" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="37">𝐟</tspan></text>
+    <text id="_6" data-name="𝐲" transform="translate(104 24)" fill="#3be7af" font-size="34" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="37">𝐲</tspan></text>
+  </g>
+</svg>
